@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Mellomlager og nedlastede høringssvar
+.cache/
+nye_vedlegg/
+regjeringen-*/
+stortinget-*/
+horingssvar/
+_oversikt.md
+_metode.md
+
+# Testfiler fra feilsøking (se README: curl ... -o side.html)
+side.html
+
+# OS og editor
+.DS_Store
+.idea/
+.vscode/
